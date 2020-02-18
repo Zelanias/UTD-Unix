@@ -1,0 +1,1 @@
+I used a similar processes as the previous homeworks to develop this program. As i have not dealt with perl before, I had to learn everything about it. FILE I/O is similar to python's. The syntax feels like a mixture of other C langugaes and bash. 
